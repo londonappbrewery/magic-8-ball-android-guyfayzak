@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="btn_value">Magic ball say\'s:</string>
+    <string name="text_lbl">Ask the magic ball</string>
 </resources>
